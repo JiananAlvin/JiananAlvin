@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying for my bachlor degree at Technical University of Denmark (DTU). My major is General Engineering-Cyber System.
-- 🌱 I’m now exchanging at The Jhons Hopkins Unversity (expected from 1st Sept. 2022 - 1st Jan. 2023). 
-- 👯 I’m looking for Ph.D positions about machine learning and areas about computer science.
+- 🔭 I’m currently an undergraduate student studying General Engineering - Cyber Systems at Technical University of Denmark (DTU).
+- 🌱 I’m now staying at the Johns Hopkins University as an exchange student (expected from 1st Sept. 2022 - 1st Jan. 2023). 
+- 💬 I’m looking for research projects or jobs in computer science.
 
 
 
