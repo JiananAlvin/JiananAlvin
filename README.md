@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently an undergraduate student studying General Engineering - Cyber Systems at the Technical University of Denmark (DTU).
 - 🌱 I studied at Johns Hopkins University (JHU) as an exchange student from Aug. 22nd 2022 to Dec. 23rd 2023. 
-- 💬 I’m looking for research projects or jobs in computer science.
+- 💬 I’m looking for research projects or jobs in computer science this summer.
 
 
 
