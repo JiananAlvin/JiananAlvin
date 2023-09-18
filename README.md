@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently an undergraduate student studying General Engineering - Cyber Systems at the Technical University of Denmark (DTU).
-- 💬 I’m looking for research projects or jobs in computer science this summer.
+- 🔭 I’m currently a Master student studying Computer Science at EPFL.
+- 💬 I’m looking for an internship in the summer 2024.
 
 
 
