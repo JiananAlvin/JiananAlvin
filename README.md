@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently a Master student studying Computer Science at EPFL.
-- 💬 I’m looking for a part-time developer/research assistant job starting from the beginning of September 2024.
+- 💬 I’m looking for a Master Thesis starting from the beginning of Feburary 2025.
